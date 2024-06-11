@@ -8,3 +8,5 @@ possible move. The maxValue and minValue functions recursively evaluate all poss
 ## Acknowledgments
 - Runner.py was implemented by COE course instructors at KFUPM
 - The minimax algorithm concept from artificial intelligence textbooks and online resources, specially from [CS50.ai](https://cs50.ai/)
+## Date
+This was submitted on March 15th 2022
