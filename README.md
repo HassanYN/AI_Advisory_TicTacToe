@@ -8,7 +8,7 @@ possible move. The maxValue and minValue functions recursively evaluate all poss
 ## Acknowledgments
 - **runner.py** was implemented by COE course instructors at KFUPM
 - The minimax algorithm concept from artificial intelligence textbooks and online resources, specially from [CS50.ai](https://cs50.ai/)
-# Usage
+## Usage
 1. Run **runner.py** to start the game
 2. Select whether you want to play as X or O by clicking the corresponding button.
 3. Make your moves by clicking on the empty tiles.
