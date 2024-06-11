@@ -15,5 +15,3 @@ possible move. The maxValue and minValue functions recursively evaluate all poss
 4. The AI will make its move after you.
 5. The game will display the result (win, lose, or tie) once it ends.
 6. Click the "Play Again" button to start a new game.
-## Date
-This was submitted on March 15th 2022
