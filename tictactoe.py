@@ -237,7 +237,6 @@ def maxValue(board):
             value = newV[0]
             action = boardActions[i]
 
-    
     return value, action
 
 
